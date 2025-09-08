@@ -10,3 +10,7 @@ https://the-guild.dev/graphql/inspector
 https://grafbase.com/blog/managing-mcp-context-graphql
 
 https://wundergraph.com/mcp-gateway
+
+https://www.apollographql.com/blog/the-future-of-mcp-is-graphql
+
+https://github.com/blurrah/mcp-graphql
