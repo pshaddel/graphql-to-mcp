@@ -8,3 +8,5 @@ https://the-guild.dev/graphql/codegen/docs/getting-started
 https://the-guild.dev/graphql/inspector
 
 https://grafbase.com/blog/managing-mcp-context-graphql
+
+https://wundergraph.com/mcp-gateway
